@@ -1,2 +1,3 @@
 # Hello-world-2
-Second Hello World project.
+
+I want this project to be a little bit different.
